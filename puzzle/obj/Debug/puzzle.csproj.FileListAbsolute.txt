@@ -1,0 +1,14 @@
+C:\dotnet\wiss\Tps\Wpf\puzzle\puzzle\bin\Debug\puzzle.exe.config
+C:\dotnet\wiss\Tps\Wpf\puzzle\puzzle\bin\Debug\puzzle.exe
+C:\dotnet\wiss\Tps\Wpf\puzzle\puzzle\bin\Debug\puzzle.pdb
+C:\dotnet\wiss\Tps\Wpf\puzzle\puzzle\obj\Debug\puzzle.csprojResolveAssemblyReference.cache
+C:\dotnet\wiss\Tps\Wpf\puzzle\puzzle\obj\Debug\MainWindow.g.cs
+C:\dotnet\wiss\Tps\Wpf\puzzle\puzzle\obj\Debug\App.g.cs
+C:\dotnet\wiss\Tps\Wpf\puzzle\puzzle\obj\Debug\puzzle_MarkupCompile.cache
+C:\dotnet\wiss\Tps\Wpf\puzzle\puzzle\obj\Debug\puzzle_MarkupCompile.lref
+C:\dotnet\wiss\Tps\Wpf\puzzle\puzzle\obj\Debug\MainWindow.baml
+C:\dotnet\wiss\Tps\Wpf\puzzle\puzzle\obj\Debug\puzzle.g.resources
+C:\dotnet\wiss\Tps\Wpf\puzzle\puzzle\obj\Debug\puzzle.Properties.Resources.resources
+C:\dotnet\wiss\Tps\Wpf\puzzle\puzzle\obj\Debug\puzzle.csproj.GenerateResource.Cache
+C:\dotnet\wiss\Tps\Wpf\puzzle\puzzle\obj\Debug\puzzle.exe
+C:\dotnet\wiss\Tps\Wpf\puzzle\puzzle\obj\Debug\puzzle.pdb
